@@ -25,7 +25,7 @@ shinyUI(navbarPage('Electoral College',
                    # Create a tabPanel to show your scatter plot
                    
                             # Add a titlePanel to your tab
-                   
+                             titlePanel(title = "Map")
                             
                             # Create a sidebar layout for this tab (page)
                    
